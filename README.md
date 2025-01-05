@@ -23,7 +23,7 @@ Given the crucial importance of women's safety and security everywhere, I wanted
 
 <h2 align="start" id="Demo">Demo
 <br>
- <video width="320" height="240" controls> <source src="https://github.com/user-attachments/assets/455e85b2-6ec1-439c-a7f5-6cc1f41d982c" type="video/mp4"> Your browser does not support the video tag. </video>
+ <video width="320" height="240" src="https://github.com/user-attachments/assets/455e85b2-6ec1-439c-a7f5-6cc1f41d982c" type="video/mp4"> Your browser does not support the video tag. </video>
 //Here is the video demo
 
 <h2 align="start" id="core_features"> 🤺 Core Features</h2>
