@@ -14,7 +14,7 @@
 Thinking about it..
 
 <h2 align="start" id="Inspiration">Inspiration</h2>
-Given the crucial importance of women's safety and security everywhere, I wanted to contribute by creating a solution that is simple, safe, and feature-rich. This app is designed not only to enhance safety but also to empowering users to feel both secure and confident. Its user-friendly interface makes navigation effortless, ensuring that anyone can use it with ease. I hope this serves as a reminder to keep moving forward and never give up, providing a sense of support and encouragement.
+Given the crucial importance of women's safety and security everywhere, I wanted to contribute by creating a solution that is simple, safe, and feature-rich. This app is designed not only to enhance safety but also to empowering users to feel both secure and confident.
 <br><br>
 <b>As there are many women safety app but majority of them lacks simplity and ease to use Interface and filled with a lots of clutter and b& (can't use another synonym but you may know) and is hard to navigate. There was no distinction between the essential services and additonal services.</b> 
 <br><br>
@@ -23,7 +23,7 @@ Given the crucial importance of women's safety and security everywhere, I wanted
 
 <h2 align="start" id="Demo">Demo
 <br>
-https:novideohere.mp4
+https://github.com/user-attachments/assets/455e85b2-6ec1-439c-a7f5-6cc1f41d982c.mp4
 //Here is the video demo
 
 <h2 align="start" id="core_features"> 🤺 Core Features</h2>
@@ -80,12 +80,12 @@ Feature | Images
 ------------ | -------------
  **Home Fragment(initial fragment)**  
  Simple, easy to use, and incredibly convenient with a minimalistic UI for essentials services.  | <img src="https://github.com/user-attachments/assets/93bedb62-87b0-43e6-8722-4757a6fab413" width="450" height="350">
+ **More Fragment(second fragment)**
+This More fragmnet contains more features which it easier to access and uses and differentiate between the essentials and other servies. | <img src="https://github.com/user-attachments/assets/5a682bba-92a0-4c59-a073-cdbb6cd4e19c" width="450" height="350">
  **Emergency Area(HOME)**
 Easy to indentify and recognisable to start SOS request.| <img src="https://github.com/user-attachments/assets/7f0fdfb6-0f0e-457c-832e-b3d45e503b50" width="450" height="350">
 **Normal Tracking Area(HOME)**
 Easy to indentify and recognisable to start normal tracking. | <img src="https://github.com/user-attachments/assets/8d26ce94-61c7-478f-913b-e870d972e3e0" width="450" height="350">
-**More Fragment(second fragment)**
-This More fragmnet contains more features which it easier to access and uses and differentiate between the essentials and other servies. | <img src="https://github.com/user-attachments/assets/5a682bba-92a0-4c59-a073-cdbb6cd4e19c" width="450" height="350">
 **Emergency Alerts & Location Sharing through SMS**
 Sends alerts periodically with the important ones for both Emergency and Normal Tracking. |<img src="https://github.com/user-attachments/assets/7c6dae51-aacd-41e6-ab86-87f5b72ed1c2" width="450" height="350">
 **Contacts**
@@ -117,9 +117,9 @@ Shake frequency detector to send SOS even when app isn't active (it only works w
 <br>
 <b>These permissions are required which are essential for the core functionality of the app.</b>
 
-<h2 align="start" id="Inspiration">Installation False Warings</h2>
-As this application is under development due to which it is not currently on PlayStore and the app requires the above permissions for the core functionality, so the google might show a dialog to not to install the app as it is not avaiable on it and not signed by them so please ignore it and proceed to installation .<br>
+<h2 align="start" id="Inspiration">Installation False Warnings</h2>
+As this application is under development due to which it is not currently on PlayStore and the app requires the above permissions for the core functionality, so the google might show a dialog to not to install the app as it is not avaiable on it and not signed by them so please ignore it and proceed to installation.<br>
 Similary some app inbuilt security applications <b>might falsely flag it as virus</b> as it is not installed from the playstore or thier repective app store and requires the above permission, so please ignore it.<br>
-<b>This application is completely safe and no information is being collected by anyone not even by the developer, so be assured the application is completely isolated to the user's device only.<b>
+<b>This application is completely safe and no information is being collected by anyone not even by the developer, so be assured the application is completely isolated to the user's device only<b>
 <br>
 
